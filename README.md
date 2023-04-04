@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi, I'm Vlad ✌️</h1>
 <h3 align="center">A passionate Data Scientist and a lucky one to live with three dogs</h3>
 
