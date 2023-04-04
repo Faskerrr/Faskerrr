@@ -3,10 +3,10 @@
 <h1 align="center">Hi, I'm Vlad ✌️</h1>
 <h3 align="center">A passionate Data Scientist and a lucky one to live with three dogs</h3>
 
-- 🌱 I’m currently improving my **SQL skills**
-
 - 🐶 My latest project is [Doggos-101](https://github.com/Faskerrr/Doggos-101)
 ![Doggos-101](https://i.ibb.co/C72z2SC/2023-04-04-22-04-29.png)
+
+- 💪 I’m currently improving my **SQL skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
