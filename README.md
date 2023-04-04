@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Vlad ✌️</h1>
 <h3 align="center">A passionate Data Scientist and a lucky one to live with three dogs</h3>
 
-- 🐶 My latest project is [Doggos-101](https://github.com/Faskerrr/Doggos-101)
+🐶 My latest project is [Doggos-101](https://github.com/Faskerrr/Doggos-101)
 
 ![Doggos-101](https://i.ibb.co/C72z2SC/2023-04-04-22-04-29.png)
 
-- 💪 I’m currently improving my **SQL skills**
+💪 I’m currently improving my **SQL skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faskerrr&show_icons=true&locale=en" alt="faskerrr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faskerrr&" alt="faskerrr" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=faskerrr&" alt="faskerrr" /></p>
 
