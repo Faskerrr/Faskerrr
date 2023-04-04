@@ -6,6 +6,7 @@
 - 🌱 I’m currently improving my **SQL skills**
 
 - 🐶 My latest project is [Doggos-101](https://github.com/Faskerrr/Doggos-101)
+![Doggos-101](https://i.ibb.co/C72z2SC/2023-04-04-22-04-29.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
