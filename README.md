@@ -5,7 +5,7 @@
 
 ![Doggos-101](https://i.ibb.co/C72z2SC/2023-04-04-22-04-29.png)
 
-💪 I’m currently improving my **SQL skills**
+📖 I’m currently reading **Aurélien Géron - Hands-on Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
